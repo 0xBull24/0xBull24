@@ -1,6 +1,6 @@
 ## Hi there 👋🏾
 
-![Visitor Count](https://komarev.com/ghpvc/?username=your-username&color=blue)
+![Visitor Count](https://komarev.com/ghpvc/?username=0xBull24&color=green)
 
 - 👨🏾‍💻 I’m currently working on writing test for your favorite companies behind private repos
 - 🌱 I’m currently learning several areas to make me a better engineer all around
